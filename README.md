@@ -1,10 +1,10 @@
-//Introduction
+# Introduction
 
 This project was assigned as final examination for the Algorithms and Data Structures (Algoritmi e principi dell'informatica) course in Politecnico di Milano. Its objective was examining the capabilities of students when managing the complexity of the code and the use of different known data structures.
 
 It is evaluated considering the most efficient use of memory and time possible when accomplishing the given task.
 
-//Description
+# Description
 
 The C language was used, given its memory management capabilities and lightweight computation.
 
@@ -22,7 +22,7 @@ The interface was made by the following operations:
 
 If there are multiple graphs with the same metric value, priority is given to the ones that were added first. Distances of nodes that are not reachable from 0 are considered to be zero. The indices of the k graphs are printed on a single line, separated by a space, in any order.
 
-//Implementation
+# Implementation
 
 To complete the task, I implemented:
 
